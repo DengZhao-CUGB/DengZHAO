@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Deng ZHAO (赵登)"
 author_profile: true
 redirect_from: 
   - /about/

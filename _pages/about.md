@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Deng Zhao's Homepage
+I'm with the School of Artificial Intelligence, China University of Geosciences (Beijing). My research Interestes inclue service computing, Internet of Things, and Artificial Intelligence.
